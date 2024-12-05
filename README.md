@@ -64,7 +64,7 @@ these companies.
 * Author: Dr Sven Balnojan
   ([Dr Sven Balnojan on LinkedIn](https://www.linkedin.com/in/dr-sven-balnojan-a55b4072/),
   [Dr Sven Balnojan on Substack](https://substack.com/@finishslime))
-* Date: dec. 2024
+* Date: Dec. 2024
 * Link to the article:
   https://www.thdpth.com/p/6-essential-lessons-for-building
 * Publisher: Substck
