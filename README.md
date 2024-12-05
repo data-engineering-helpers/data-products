@@ -72,7 +72,10 @@ these companies.
 ## How To Build a Data Product with Databricks
 * Title: How To Build a Data Product with Databricks
 * Author: Jochen Christ
-  ([Jochen Christ on LinkedIn](https://www.linkedin.com/in/jochenchrist/))
+  ([Jochen Christ on LinkedIn](https://www.linkedin.com/in/jochenchrist/),
+  [Jochen Christ on GitHub](https://github.com/jochenchrist))
 * Date: Apr. 2024
 * Link to the article:
   https://www.datamesh-architecture.com/howto/build-a-dataproduct-with-databricks
+* Associated GitHub repository (with source code):
+  https://github.com/datamesh-architecture/databricks-dataproduct-example
