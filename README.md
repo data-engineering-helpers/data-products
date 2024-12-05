@@ -67,7 +67,7 @@ these companies.
 * Date: Dec. 2024
 * Link to the article:
   https://www.thdpth.com/p/6-essential-lessons-for-building
-* Publisher: Substck
+* Publisher: Substack
 
 ## How To Build a Data Product with Databricks
 * Title: How To Build a Data Product with Databricks
