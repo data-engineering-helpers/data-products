@@ -2,6 +2,15 @@ Material for Data Products in a Data Engineering perspective
 ============================================================
 
 # Table of Content (ToC)
+* [Overview](#overview)
+* [References](#references)
+* [Data Products specifications](#data-products-specifications)
+* [Books](#books)
+  * [Data Products for all ages](#data-products-for-all-ages)
+* [Articles](#articles)
+  * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Overview
 [This project](https://github.com/data-engineering-helpers/data-products)
