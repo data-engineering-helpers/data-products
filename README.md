@@ -10,6 +10,7 @@ Material for Data Products in a Data Engineering perspective
 * [Articles](#articles)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
+  * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -79,3 +80,13 @@ these companies.
   https://www.datamesh-architecture.com/howto/build-a-dataproduct-with-databricks
 * Associated GitHub repository (with source code):
   https://github.com/datamesh-architecture/databricks-dataproduct-example
+
+## Data Pipelines for Data Products
+* Title: Data Pipelines for Data Products
+* Author: Bruno Gonzales
+  ([Bruno Gonzales on LinkedIn](https://www.linkedin.com/in/brunouy/),
+  [Bruno Gonzales on Substack](https://substack.com/@dataqualityguru))
+* Date: Oct. 2023
+* Publisher: Modern Data 101 on Substack
+* Link to the article:
+  https://moderndata101.substack.com/p/data-pipelines-for-data-products
