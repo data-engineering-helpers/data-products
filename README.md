@@ -28,10 +28,33 @@ these companies.
 * Specifications/principles for a
   [data engineering pipeline deployment tool](https://github.com/data-engineering-helpers/data-pipeline-deployment)
 
-## Data Products specifications
+# Data Products specifications
 * Linux Foundation's Open Data Product Specification (ODPS): https://opendataproducts.org/
 * Innoq's specification for Data Products: https://dataproduct-specification.com/
 * Open Data Contract Specification (ODCS)
   * Reader-friendly, dedicated site: https://bitol-io.github.io/open-data-contract-standard/latest/
   * GitHub home page: https://github.com/bitol-io/open-data-contract-standard
 * Innoq's Data Contract specification: https://datacontract.com/
+
+# Books
+
+## Data Products for all ages
+* Title: Data Products for all ages
+* Author: Jean-Georges Perrin
+  ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/))
+* Available on Amazon: https://www.amazon.fr/dp/B0DPL3MCWJ
+* ASIN: ‎ B0DPL3MCWJ
+* ISBN-13: ‎ 979-8341255999
+* Number of pages:‎ 36
+
+# Articles
+
+## 6 Essential Lessons for Building Great Data Products
+* Title: 6 Essential Lessons for Building Great Data Products
+* Author: Dr Sven Balnojan
+  ([Dr Sven Balnojan on LinkedIn](https://www.linkedin.com/in/dr-sven-balnojan-a55b4072/),
+  [Dr Sven Balnojan on Substack](https://substack.com/@finishslime))
+* Date: dec. 2024
+* Link to the article:
+  https://www.thdpth.com/p/6-essential-lessons-for-building
+* Publisher: Substck
