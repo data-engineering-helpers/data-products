@@ -8,6 +8,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [Adopting a product mindset](#adopting-a-product-mindset)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
   * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
@@ -61,6 +62,13 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## Adopting a product mindset
+* Title: Adopting a product mindset
+* Author: Andrew Jones
+* Date: Dec. 2024
+* Link to the article:
+  https://andrew-jones.com/newsletter/2024-12-06-adopting-a-product-mindset/
 
 ## 6 Essential Lessons for Building Great Data Products
 * Title: 6 Essential Lessons for Building Great Data Products
