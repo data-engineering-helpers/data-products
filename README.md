@@ -12,6 +12,7 @@ Material for Data Products in a Data Engineering perspective
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
   * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
   * [How to Grow Product-Minded Engineering Teams](#how-to-grow-product-minded-engineering-teams)
+  * [A good engineer thinks like a product manager](#a-good-engineer-thinks-like-a-product-manager)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -100,3 +101,12 @@ these companies.
 * Date: Jan. 2024
 * Link to the article:
   https://hybridhacker.email/p/how-to-grow-product-minded-engineering
+
+## A good engineer thinks like a product manager
+* Title: A good engineer thinks like a product manager
+* Author: Gregor Ojstersek
+  ([Gregor Ojstersek on LinkedIn](https://www.linkedin.com/in/gregorojstersek/),
+  [Gregor Ojstersek on Substack](https://substack.com/@gregorojstersek))
+* Date: Nov. 2023
+* Link to the article:
+  https://newsletter.eng-leadership.com/p/a-good-engineer-thinks-like-a-product
