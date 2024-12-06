@@ -63,9 +63,18 @@ these companies.
 
 # Articles
 
+## The Data Product Ecosystem: Core, Analytic, and Data Science Products
+* Title: The Data Product Ecosystem: Core, Analytic, and Data Science Products
+* Author: Fouad Talaouit
+  ([Fouad Talaouit on LinkedIn](https://www.linkedin.com/in/fouadtalaouit/))
+* Date: Dec. 2024
+* Link to the article:
+  https://www.linkedin.com/pulse/data-product-ecosystem-core-analytic-science-products-talaouit--iwr0e/
+
 ## Adopting a product mindset
 * Title: Adopting a product mindset
 * Author: Andrew Jones
+  ([Andrew Jones on LinkedIn](https://www.linkedin.com/in/andrewrhysjones/))
 * Date: Dec. 2024
 * Link to the article:
   https://andrew-jones.com/newsletter/2024-12-06-adopting-a-product-mindset/
