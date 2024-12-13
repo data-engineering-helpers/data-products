@@ -63,6 +63,14 @@ these companies.
 
 # Articles
 
+## 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?
+* Title: 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬 𝐖𝐢𝐥𝐥 𝐁𝐞 𝐭𝐡𝐞 𝐇𝐨𝐭 𝐓𝐨𝐩𝐢𝐜 𝐨𝐟 𝟐𝟎𝟐𝟓, 𝐁𝐮𝐭 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐓𝐡𝐞𝐦?
+* Author: Fouad Talaouit
+  ([Fouad Talaouit on LinkedIn](https://www.linkedin.com/in/fouadtalaouit/))
+* Date: Dec. 2024
+* Link to the post:
+  https://www.linkedin.com/posts/fouadtalaouit_dataproducts-datamanagement-datamesh-activity-7273218047044194305-2wC-/
+
 ## The Data Product Ecosystem: Core, Analytic, and Data Science Products
 * Title: The Data Product Ecosystem: Core, Analytic, and Data Science Products
 * Author: Fouad Talaouit
@@ -127,3 +135,24 @@ these companies.
 * Date: Nov. 2023
 * Link to the article:
   https://newsletter.eng-leadership.com/p/a-good-engineer-thinks-like-a-product
+
+# Frameworks
+
+## Data Mesh Manager
+* Home page: https://datamesh-manager.com/
+* Free demo: https://demo.datamesh-manager.com/
+* Main company behind: [InnoQ](https://www.linkedin.com/company/innoq)
+* Overview: Manage data products, agree on data contracts, and automate data governance. Get an enterprise data marketplace.
+
+## Data Product Portal
+* GitHub page: https://github.com/conveyordata/data-product-portal
+* License: Apache License 2.0
+* Overview:
+  * The Data Product Portal enables to scale building data products across all departments in an organisation in a self-service manner.
+    It does so by providing a guided setup for creating data products, with proper approval processes that will enable governance by design for data initiatives.
+    The portal is a process tool that helps data professionals do their work more efficiently while providing governance and insights into how data is being used throughout the organisation.
+  * Unlike traditional data catalogs that primarily focus on describing data, the Data Product Portal guides you through the entire data product development lifecycle.
+    This includes self-service and secure access to tools, data platforms, data sources, and sharing concepts, ensuring control and oversight for business stakeholders.
+  * Our goal is to bridge the gap between data governance, data platforms and data catalogs and provide a 360 view of all ongoing data initiatives that is easy to understand by everybody.
+  * To read more about it, please checkout our
+    [announcement blogpost](https://conveyordata.com/portal-introducing-new-open-source-data-product-portal?utm_source=github-portal-readme&utm_medium=referral)
