@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
   * [Adopting a product mindset](#adopting-a-product-mindset)
+  * [The state of Data Products](#the-state-of-data-products)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
   * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
@@ -96,6 +97,15 @@ these companies.
 * Link to the article:
   https://www.thdpth.com/p/6-essential-lessons-for-building
 * Publisher: Substack
+
+## The state of Data Products
+* Title: The state of Data Products
+* Date: July 2024
+* Author: Wannes Rosiers
+  ([Wannes Rosiers on LinkedIn](https://www.linkedin.com/in/wannes-rosiers/),
+  [Wannes Rosiers on Medium](https://medium.com/@wannesrosiers))
+* Link to the article on Medium:
+  https://medium.com/conveyordata/the-state-of-data-products-9e1bc5c39bcb
 
 ## How To Build a Data Product with Databricks
 * Title: How To Build a Data Product with Databricks
