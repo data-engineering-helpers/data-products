@@ -4,7 +4,8 @@ Material for Data Products in a Data Engineering perspective
 # Table of Content (ToC)
 * [Overview](#overview)
 * [References](#references)
-* [Data Products specifications](#data-products-specifications)
+* [Data product specifications](#data-product-specifications)
+* [Data contract specifications](#data-contract-specifications)
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
@@ -49,9 +50,12 @@ these companies.
 * Specifications/principles for a
   [data engineering pipeline deployment tool](https://github.com/data-engineering-helpers/data-pipeline-deployment)
 
-# Data Products specifications
+# Data product specifications
 * Linux Foundation's Open Data Product Specification (ODPS): https://opendataproducts.org/
 * Innoq's specification for Data Products: https://dataproduct-specification.com/
+* Open Data Mesh (ODM)'s Data Product Descriptor Specification (DPDS): https://github.com/opendatamesh-initiative/odm-specification-dpdescriptor
+
+# Data contract specifications
 * Open Data Contract Specification (ODCS)
   * Reader-friendly, dedicated site: https://bitol-io.github.io/open-data-contract-standard/latest/
   * GitHub home page: https://github.com/bitol-io/open-data-contract-standard
