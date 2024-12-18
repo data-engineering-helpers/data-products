@@ -8,6 +8,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [Exploring the Integration of OpenLineage with ODPS](#exploring-the-integration-of-openlineage-with-odps)
   * [𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?](#𝐇𝐨𝐰-𝐃𝐨-𝐘𝐨𝐮-𝐌𝐚𝐧𝐚𝐠𝐞-𝐃𝐚𝐭𝐚-𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬)
   * [The Data Product Ecosystem: Core, Analytic, and Data Science Products](#the-data-product-ecosystem-core-analytic-and-data-science-products)
   * [Adopting a product mindset](#adopting-a-product-mindset)
@@ -69,8 +70,17 @@ these companies.
 
 # Articles
 
+## Exploring the Integration of OpenLineage with ODPS
+* Title: Exploring the Integration of OpenLineage with ODPS
+* Author: Jarkko Moilanen
+  ([Jarkko Moilanen on LinkedIn](https://www.linkedin.com/in/jarkkomoilanen/))
+  * Jarkko Moilanen is one of the main maintainers of the Linux Foundation's Open Data Product Specification (ODPS)
+* Date: Dec. 2024
+* Link to the post:
+  https://www.linkedin.com/posts/jarkkomoilanen_datalineage-openlineage-datagovernance-activity-7275156333790715905-t5-7/
+
 ## 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?
-* Title: 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬 𝐖𝐢𝐥𝐥 𝐁𝐞 𝐭𝐡𝐞 𝐇𝐨𝐭 𝐓𝐨𝐩𝐢𝐜 𝐨𝐟 𝟐𝟎𝟐𝟓, 𝐁𝐮𝐭 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐓𝐡𝐞𝐦?
+* Title: 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬 𝐖𝐢𝐥𝐥 𝐁𝐞 𝐭𝐡𝐞 𝐇𝐨𝐭 𝐓𝐨𝐩𝐢𝐜 𝐨𝐟 𝟐𝟎𝟐𝟓, 𝐁𝐮𝐭 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐓𝐡𝐞𝐦? 
 * Author: Fouad Talaouit
   ([Fouad Talaouit on LinkedIn](https://www.linkedin.com/in/fouadtalaouit/))
 * Date: Dec. 2024
