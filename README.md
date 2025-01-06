@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [From Data Catalog to Data Marketplace](#from-data-catalog-to-data-marketplace)
   * [Exploring the Integration of OpenLineage with ODPS](#exploring-the-integration-of-openlineage-with-odps)
   * [𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?](#𝐇𝐨𝐰-𝐃𝐨-𝐘𝐨𝐮-𝐌𝐚𝐧𝐚𝐠𝐞-𝐃𝐚𝐭𝐚-𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬)
   * [The Data Product Ecosystem: Core, Analytic, and Data Science Products](#the-data-product-ecosystem-core-analytic-and-data-science-products)
@@ -73,6 +74,14 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## From Data Catalog to Data Marketplace
+* Title: From Data Catalog 📚 to Data Marketplace 🛒
+* Author: Jochen Christ
+  ([Jochen Christ on LinkedIn](https://www.linkedin.com/in/jochenchrist/))
+* Date: Jan. 2025
+* Link to the LinkedIn post:
+  https://www.linkedin.com/posts/jochenchrist_datamarketplace-datamarketplace-dataproducts-activity-7281953125140246528-BExu/
 
 ## Exploring the Integration of OpenLineage with ODPS
 * Title: Exploring the Integration of OpenLineage with ODPS
