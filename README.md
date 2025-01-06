@@ -82,6 +82,8 @@ these companies.
 * Date: Jan. 2025
 * Link to the LinkedIn post:
   https://www.linkedin.com/posts/jochenchrist_datamarketplace-datamarketplace-dataproducts-activity-7281953125140246528-BExu/
+* Link to the Data Mesh Manager blog post:
+  https://datamesh-manager.com/learn/data-catalog-vs-data-marketplace
 
 ## Exploring the Integration of OpenLineage with ODPS
 * Title: Exploring the Integration of OpenLineage with ODPS
