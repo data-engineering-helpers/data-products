@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [The data mesh challenge](#the-data-mesh-challenge)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [From Data Catalog to Data Marketplace](#from-data-catalog-to-data-marketplace)
   * [Exploring the Integration of OpenLineage with ODPS](#exploring-the-integration-of-openlineage-with-odps)
@@ -75,6 +76,16 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## The data mesh challenge
+* Title: The data mesh challenge: closing the gap between strategy and operation at scale
+* Author: Zhamak Dehghani
+  ([Zhamak Dehghani on LinkedIn](https://www.linkedin.com/in/zhamak-dehghani),
+  [Zhamak Dehghani on NextData](https://www.nextdata.com/company))
+* Date: Jan. 2025
+* Link to the post on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7290825660632076288/
+* Link to the post on NextData blog:
+  https://www.nextdata.com/our-pov/the-data-mesh-challenge-how-to-close-the-gap-between-inception-and-operation-at-scale
 
 ## Rethinking the Medallion Architecture
 * Title: The End of the Bronze Age: Rethinking the Medallion Architecture
