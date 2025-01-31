@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [From Data Catalog to Data Marketplace](#from-data-catalog-to-data-marketplace)
   * [Exploring the Integration of OpenLineage with ODPS](#exploring-the-integration-of-openlineage-with-odps)
   * [𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?](#𝐇𝐨𝐰-𝐃𝐨-𝐘𝐨𝐮-𝐌𝐚𝐧𝐚𝐠𝐞-𝐃𝐚𝐭𝐚-𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬)
@@ -74,6 +75,21 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## Rethinking the Medallion Architecture
+* Title: The End of the Bronze Age: Rethinking the Medallion Architecture
+* Author: Adam Bellemare
+  ([Adam Bellemare on LinkedIn](https://www.linkedin.com/in/adambellemare/),
+  [Adam Bellemare on InfoQ](https://www.infoq.com/profile/Adam-Bellemare/))
+* Editor: Thomas Betts
+  ([Thomas Betts on LinkedIn](https://www.linkedin.com/in/thomasbetts/),
+  [Thomas Betts on InfoQ](https://www.infoq.com/profile/Thomas-Betts/))
+* Date: Jan. 2025
+* Link to the article on InfoQ:
+  https://www.infoq.com/articles/rethinking-medallion-architecture/
+* Link to a post on LinkedIn by
+  [Sean Falconer](https://www.linkedin.com/in/seanf/):
+  https://www.linkedin.com/posts/seanf_weve-built-a-system-where-every-team-hacks-activity-7290740834822430721-IB5O
 
 ## From Data Catalog to Data Marketplace
 * Title: From Data Catalog 📚 to Data Marketplace 🛒
