@@ -77,6 +77,12 @@ these companies.
 
 # Articles
 
+## Defining data products
+* Title: Defining data products
+* Author: Jean-George Perrin
+* Date: Jan. 2025
+* Link to the article: https://medium.com/data-mesh-learning/defining-data-products-a-community-effort-77363611e5c5
+
 ## The data mesh challenge
 * Title: The data mesh challenge: closing the gap between strategy and operation at scale
 * Author: Zhamak Dehghani
