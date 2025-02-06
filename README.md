@@ -23,7 +23,7 @@ Material for Data Products in a Data Engineering perspective
   * [How to Grow Product\-Minded Engineering Teams](#how-to-grow-product-minded-engineering-teams)
   * [A good engineer thinks like a product manager](#a-good-engineer-thinks-like-a-product-manager)
 * [Frameworks](#frameworks)
-  * [Data Mesh Architecture \- Data product canvas](#data-mesh-architecture-data-product-canvas)
+  * [Data Mesh Architecture \- Data product canvas](#data-mesh-architecture---data-product-canvas)
   * [Data Mesh Manager](#data-mesh-manager)
   * [Data Product Portal](#data-product-portal)
 
