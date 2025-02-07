@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [The data mesh challenge](#the-data-mesh-challenge)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [From Data Catalog to Data Marketplace](#from-data-catalog-to-data-marketplace)
@@ -77,6 +78,19 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## Rethinking the Medallion Architecture
+* Title: The End of the Bronze Age: Rethinking the Medallion Architecture
+* Authors:
+  * Adam Bellemare
+    ([Adam Bellemare on LinkedIn](https://www.linkedin.com/in/adambellemare/),
+    [Adam Bellemare on InfoQ](https://www.infoq.com/profile/Adam-Bellemare/))
+  * Thomas Betts
+    ([Thomas Betts on LinkedIn](https://www.linkedin.com/in/thomasbetts/),
+    [Thomas Betts on InfoQ](https://www.infoq.com/profile/Thomas-Betts/))
+* Date: Feb. 2025
+* Link to the article on InfoQ:
+  https://www.infoq.com/articles/rethinking-medallion-architecture/
 
 ## Defining data products
 * Title: Defining data products
