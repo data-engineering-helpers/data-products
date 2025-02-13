@@ -9,12 +9,13 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [What is a data marketplace, and do you need one?](#what-is-a-data-marketplace)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [The data mesh challenge](#the-data-mesh-challenge)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [From Data Catalog to Data Marketplace](#from-data-catalog-to-data-marketplace)
   * [Exploring the Integration of OpenLineage with ODPS](#exploring-the-integration-of-openlineage-with-odps)
-  * [𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?](#𝐇𝐨𝐰-𝐃𝐨-𝐘𝐨𝐮-𝐌𝐚𝐧𝐚𝐠𝐞-𝐃𝐚𝐭𝐚-𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬)
+  * [How Do You Manage Data Products?](#how-do-you-manage-data-products)
   * [The Data Product Ecosystem: Core, Analytic, and Data Science Products](#the-data-product-ecosystem-core-analytic-and-data-science-products)
   * [Adopting a product mindset](#adopting-a-product-mindset)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
@@ -54,6 +55,8 @@ these companies.
   * [Material for the Data platform - Metadata](https://github.com/data-engineering-helpers/metadata/blob/main/README.md)
 * Specifications/principles for a
   [data engineering pipeline deployment tool](https://github.com/data-engineering-helpers/data-pipeline-deployment)
+* Online convertor between Unicode and ASCII (some articles are written in non standard Unicode characters):
+  https://anyascii.com/
 
 # Data product specifications
 * Linux Foundation's Open Data Product Specification (ODPS): https://opendataproducts.org/
@@ -78,6 +81,22 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## What is a data marketplace
+* Title: What is a data marketplace, and do you need one?
+* Link to the post on LinkedIn:
+  https://www.linkedin.com/posts/modern-data-101_a-data-marketplaces-positioning-ugcPost-7295784619419828225-h7ih
+* Link to the article on ThoughtWorks:
+  https://www.thoughtworks.com/insights/blog/data-mesh/boosting-data-product-adoption-with-an-exceptional-marketplace-experience
+
+## End-to-End Guide to Building Data Products
+* Title: End-to-End Guide to Building Data Products
+* Dates: 2023-2025
+* Authors: Modern Data 101
+* Link to the series of articles: https://moderndata101.substack.com/p/end-to-end-guide-to-building-data
+  * [Chapter 1 - The Data Product Strategy - Becoming Metrics-First](https://moderndata101.substack.com/p/the-data-product-strategy-becoming)
+  * ...
+  * [Chapter 14 - Building Data Platforms: The Mistake Organisations Make](https://moderndata101.substack.com/p/building-data-platforms-the-mistake)
 
 ## Rethinking the Medallion Architecture
 * Title: The End of the Bronze Age: Rethinking the Medallion Architecture
@@ -142,12 +161,12 @@ these companies.
 * Link to the post:
   https://www.linkedin.com/posts/jarkkomoilanen_datalineage-openlineage-datagovernance-activity-7275156333790715905-t5-7/
 
-## 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬?
-* Title: 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬 𝐖𝐢𝐥𝐥 𝐁𝐞 𝐭𝐡𝐞 𝐇𝐨𝐭 𝐓𝐨𝐩𝐢𝐜 𝐨𝐟 𝟐𝟎𝟐𝟓, 𝐁𝐮𝐭 𝐇𝐨𝐰 𝐃𝐨 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐓𝐡𝐞𝐦? 
+## How Do You Manage Data Products?
+* Title: Data Products Will Be the Hot Topic of 2025, But How Do You Manage Them?
 * Author: Fouad Talaouit
   ([Fouad Talaouit on LinkedIn](https://www.linkedin.com/in/fouadtalaouit/))
 * Date: Dec. 2024
-* Link to the post:
+* Link to the post on LinkedIn:
   https://www.linkedin.com/posts/fouadtalaouit_dataproducts-datamanagement-datamesh-activity-7273218047044194305-2wC-/
 
 ## The Data Product Ecosystem: Core, Analytic, and Data Science Products
