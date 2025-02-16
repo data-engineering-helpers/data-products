@@ -3,7 +3,7 @@ Material for Data Products in a Data Engineering perspective
 
 # Table of Content (ToC)
 * [Overview](#overview)
-* [References](#references)
+  * [Other repositories of Data Engineering helpers](#other-repositories-of-data-engineering-helpers)
 * [Data product specifications](#data-product-specifications)
 * [Data contract specifications](#data-contract-specifications)
 * [Books](#books)
@@ -44,19 +44,16 @@ Even though the members of the GitHub organization may be employed by
 some companies, they speak on their personal behalf and do not represent
 these companies.
 
-# References
-* [Material for Data platform - Data products (this repository)](https://github.com/data-engineering-helpers/data-contracts)
-* [Material for Data platform - Data quality](https://github.com/data-engineering-helpers/data-quality)
-* [Material for Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
-* [Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
-  * [Material for the Data platform - Architecture principles](https://github.com/data-engineering-helpers/architecture-principles/blob/main/material/README.md)
-  * [Material for the Data platform - Modern Data Stack (MDS) in a box](https://github.com/data-engineering-helpers/mds-in-a-box/blob/main/README.md)
-  * [Material for the Data platform - Data-lakes, data warehouses, data lake-houses](https://github.com/data-engineering-helpers/data-lakehouse)
-  * [Material for the Data platform - Metadata](https://github.com/data-engineering-helpers/metadata/blob/main/README.md)
-* Specifications/principles for a
-  [data engineering pipeline deployment tool](https://github.com/data-engineering-helpers/data-pipeline-deployment)
-* Online convertor between Unicode and ASCII (some articles are written in non standard Unicode characters):
-  https://anyascii.com/
+## Other repositories of Data Engineering helpers
+* [Data Engineering Helpers - Knowledge Sharing - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
+* [Data Engineering Helpers - Knowledge Sharing - Data quality](https://github.com/data-engineering-helpers/data-quality)
+* [Data Engineering Helpers - Knowledge Sharing - Architecture principles](https://github.com/data-engineering-helpers/architecture-principles)
+* [Data Engineering Helpers - Knowledge Sharing - Data life cycle](https://github.com/data-engineering-helpers/data-life-cycle)
+* [Data Engineering Helpers - Knowledge Sharing - Data management](https://github.com/data-engineering-helpers/data-management)
+* [Data Engineering Helpers - Knowledge Sharing - Data lakehouse](https://github.com/data-engineering-helpers/data-lakehouse)
+* [Data Engineering Helpers - Knowledge Sharing - Metadata](https://github.com/data-engineering-helpers/metadata)
+* [Data Engineering Helpers - Knowledge Sharing - Data pipeline deployment](https://github.com/data-engineering-helpers/data-pipeline-deployment)
+* [Data Engineering Helpers - Knowledge Sharing - Semantic layer](https://github.com/data-engineering-helpers/semantic-layer)
 
 # Data product specifications
 * Linux Foundation's Open Data Product Specification (ODPS): https://opendataproducts.org/
