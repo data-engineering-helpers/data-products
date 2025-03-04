@@ -9,6 +9,8 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [Building Data Fabric starting from Data Products](#building-data-fabric-starting-from-data-products)
+  * [The Data Product Trap](#the-data-product-trap)
   * [What is a data marketplace, and do you need one?](#what-is-a-data-marketplace)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [The data mesh challenge](#the-data-mesh-challenge)
@@ -78,6 +80,24 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## Building Data Fabric starting from Data Products
+* Title: Building Data Fabric starting from Data Products
+* Date: Jan. 2025
+* Author: * Author: Paolo Platter
+  ([Paolo Platter on LinkedIn](https://www.linkedin.com/in/paoloplatter/),
+  [Paolo Platter on Medium](https://p-platter.medium.com/))
+* Link to the article on Medium:
+  https://medium.com/agile-lab-engineering/building-data-fabric-starting-from-data-products-00cd2bf0285b
+
+## The Data Product Trap
+* Title: The Data Product Trap
+* Date: Oct. 2024
+* Author: * Author: Paolo Platter
+  ([Paolo Platter on LinkedIn](https://www.linkedin.com/in/paoloplatter/),
+  [Paolo Platter on Medium](https://p-platter.medium.com/))
+* Link to the article on Medium:
+  https://medium.com/agile-lab-engineering/the-data-product-trap-e33bf8aeefa0
 
 ## What is a data marketplace
 * Title: What is a data marketplace, and do you need one?
