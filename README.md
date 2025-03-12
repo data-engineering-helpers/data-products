@@ -10,6 +10,7 @@ Material for Data Products in a Data Engineering perspective
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
   * [Building Data Fabric starting from Data Products](#building-data-fabric-starting-from-data-products)
+  * [Data Products, Platform and Where to Close the Gaps](#data-products-platform-and-where-to-close-the-gaps)
   * [The Data Product Trap](#the-data-product-trap)
   * [What is a data marketplace, and do you need one?](#what-is-a-data-marketplace)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
@@ -89,6 +90,13 @@ these companies.
   [Paolo Platter on Medium](https://p-platter.medium.com/))
 * Link to the article on Medium:
   https://medium.com/agile-lab-engineering/building-data-fabric-starting-from-data-products-00cd2bf0285b
+
+## Data Products, Platform and Where to Close the Gaps
+* Title: Speed-to-Value Funnel: Data Products + Platform and Where to Close the Gaps
+* Date: Jan. 2025
+* Author: Travis Thompson
+* Link to the article on Substack:
+  https://moderndata101.substack.com/p/speed-to-value-funnel-data-products
 
 ## The Data Product Trap
 * Title: The Data Product Trap
