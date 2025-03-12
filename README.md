@@ -96,6 +96,7 @@ these companies.
 * Title: Speed-to-Value Funnel: Data Products + Platform and Where to Close the Gaps
 * Date: Jan. 2025
 * Author: Travis Thompson
+  ([Travis Thompson on LinkedIn](https://www.linkedin.com/in/travis-w-thompson/))
 * Link to the article on Substack:
   https://moderndata101.substack.com/p/speed-to-value-funnel-data-products
 
@@ -227,6 +228,7 @@ these companies.
 * Authors:
   * Animesh Kumar
   * Travis Thompson
+    ([Travis Thompson on LinkedIn](https://www.linkedin.com/in/travis-w-thompson/))
 * Link to the article on Substack:
   https://moderndata101.substack.com/p/where-exactly-data-becomes-product
 
