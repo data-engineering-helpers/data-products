@@ -22,6 +22,7 @@ Material for Data Products in a Data Engineering perspective
   * [The Data Product Ecosystem: Core, Analytic, and Data Science Products](#the-data-product-ecosystem-core-analytic-and-data-science-products)
   * [Adopting a product mindset](#adopting-a-product-mindset)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
+  * [Where Exactly Data Becomes Product](#where-exactly-data-becomes-product)
   * [The state of Data Products](#the-state-of-data-products)
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
   * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
@@ -219,6 +220,15 @@ these companies.
 * Link to the article:
   https://www.thdpth.com/p/6-essential-lessons-for-building
 * Publisher: Substack
+
+## Where Exactly Data Becomes Product
+* Title: Where Exactly Data Becomes Product: Illustrated Guide to Data Products in Action
+* Date: Aug. 2024
+* Authors:
+  * Animesh Kumar
+  * Travis Thompson
+* Link to the article on Substack:
+  https://moderndata101.substack.com/p/where-exactly-data-becomes-product
 
 ## The state of Data Products
 * Title: The state of Data Products
