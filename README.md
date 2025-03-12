@@ -101,7 +101,7 @@ these companies.
 ## The Data Product Trap
 * Title: The Data Product Trap
 * Date: Oct. 2024
-* Author: * Author: Paolo Platter
+* Author: Paolo Platter
   ([Paolo Platter on LinkedIn](https://www.linkedin.com/in/paoloplatter/),
   [Paolo Platter on Medium](https://p-platter.medium.com/))
 * Link to the article on Medium:
