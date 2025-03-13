@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [The Data Product Testing Strategy: Handbook](#the-data-product-testing-strategy-handbook)
   * [Building Data Fabric starting from Data Products](#building-data-fabric-starting-from-data-products)
   * [Data Products, Platform and Where to Close the Gaps](#data-products-platform-and-where-to-close-the-gaps)
   * [The Data Product Trap](#the-data-product-trap)
@@ -83,10 +84,17 @@ these companies.
 
 # Articles
 
+## The Data Product Testing Strategy: Handbook
+* Title: The Data Product Testing Strategy: Handbook
+* Date: Mar. 2025
+* Authors: Manisha Jain, Animesh Kumar, Shubhanshu Jain, and Samadrita Ghosh
+* Link to the article on Substack:
+  https://moderndata101.substack.com/p/the-data-product-testing-strategy
+
 ## Building Data Fabric starting from Data Products
 * Title: Building Data Fabric starting from Data Products
 * Date: Jan. 2025
-* Author: * Author: Paolo Platter
+* Author: Paolo Platter
   ([Paolo Platter on LinkedIn](https://www.linkedin.com/in/paoloplatter/),
   [Paolo Platter on Medium](https://p-platter.medium.com/))
 * Link to the article on Medium:
