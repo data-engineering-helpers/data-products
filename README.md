@@ -11,18 +11,20 @@ Material for Data Products in a Data Engineering perspective
 * [Articles](#articles)
   * [The Data Product Testing Strategy: Handbook](#the-data-product-testing-strategy-handbook)
   * [Building Data Fabric starting from Data Products](#building-data-fabric-starting-from-data-products)
+  * [The data mesh challenge](#the-data-mesh-challenge)
   * [Data Products, Platform and Where to Close the Gaps](#data-products-platform-and-where-to-close-the-gaps)
-  * [The Data Product Trap](#the-data-product-trap)
   * [What is a data marketplace, and do you need one?](#what-is-a-data-marketplace)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [The data mesh challenge](#the-data-mesh-challenge)
   * [Rethinking the Medallion Architecture](#rethinking-the-medallion-architecture)
   * [From Data Catalog to Data Marketplace](#from-data-catalog-to-data-marketplace)
+  * [Designing data products](#designing-data-products)
   * [Exploring the Integration of OpenLineage with ODPS](#exploring-the-integration-of-openlineage-with-odps)
   * [How Do You Manage Data Products?](#how-do-you-manage-data-products)
   * [The Data Product Ecosystem: Core, Analytic, and Data Science Products](#the-data-product-ecosystem-core-analytic-and-data-science-products)
   * [Adopting a product mindset](#adopting-a-product-mindset)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
+  * [The Data Product Trap](#the-data-product-trap)
   * [Where Exactly Data Becomes Product](#where-exactly-data-becomes-product)
   * [The state of Data Products](#the-state-of-data-products)
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
@@ -100,6 +102,15 @@ these companies.
 * Link to the article on Medium:
   https://medium.com/agile-lab-engineering/building-data-fabric-starting-from-data-products-00cd2bf0285b
 
+## The data mesh challenge
+* Title: The data mesh challenge: closing the gap between strategy and operation at scale
+* Date: Jan. 2025
+* Author: Zhamak Dehghani
+  ([Zhamak Dehghani on LinkedIn](https://www.linkedin.com/in/zhamak-dehghani/),
+  [Zhamak Dehghani on Nextdata contact page](https://www.nextdata.com/#contact))
+* Link to the article on the Nextdata blog:
+  https://www.nextdata.com/our-pov/the-data-mesh-challenge-how-to-close-the-gap-between-inception-and-operation-at-scale
+
 ## Data Products, Platform and Where to Close the Gaps
 * Title: Speed-to-Value Funnel: Data Products + Platform and Where to Close the Gaps
 * Date: Jan. 2025
@@ -107,15 +118,6 @@ these companies.
   ([Travis Thompson on LinkedIn](https://www.linkedin.com/in/travis-w-thompson/))
 * Link to the article on Substack:
   https://moderndata101.substack.com/p/speed-to-value-funnel-data-products
-
-## The Data Product Trap
-* Title: The Data Product Trap
-* Date: Oct. 2024
-* Author: Paolo Platter
-  ([Paolo Platter on LinkedIn](https://www.linkedin.com/in/paoloplatter/),
-  [Paolo Platter on Medium](https://p-platter.medium.com/))
-* Link to the article on Medium:
-  https://medium.com/agile-lab-engineering/the-data-product-trap-e33bf8aeefa0
 
 ## What is a data marketplace
 * Title: What is a data marketplace, and do you need one?
@@ -187,6 +189,13 @@ these companies.
 * Link to the Data Mesh Manager blog post:
   https://datamesh-manager.com/learn/data-catalog-vs-data-marketplace
 
+## Designing data products
+* Title: Designing data products
+* Date: Dec. 2024
+* Author: Kiran Prakash
+* Link to the article on Martin Flowler's blog:
+  https://martinfowler.com/articles/designing-data-products.html
+
 ## Exploring the Integration of OpenLineage with ODPS
 * Title: Exploring the Integration of OpenLineage with ODPS
 * Author: Jarkko Moilanen
@@ -229,6 +238,15 @@ these companies.
 * Link to the article:
   https://www.thdpth.com/p/6-essential-lessons-for-building
 * Publisher: Substack
+
+## The Data Product Trap
+* Title: The Data Product Trap
+* Date: Oct. 2024
+* Author: Paolo Platter
+  ([Paolo Platter on LinkedIn](https://www.linkedin.com/in/paoloplatter/),
+  [Paolo Platter on Medium](https://p-platter.medium.com/))
+* Link to the article on Medium:
+  https://medium.com/agile-lab-engineering/the-data-product-trap-e33bf8aeefa0
 
 ## Where Exactly Data Becomes Product
 * Title: Where Exactly Data Becomes Product: Illustrated Guide to Data Products in Action
