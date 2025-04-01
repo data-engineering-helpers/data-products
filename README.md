@@ -27,10 +27,11 @@ Material for Data Products in a Data Engineering perspective
   * [The Data Product Trap](#the-data-product-trap)
   * [Where Exactly Data Becomes Product](#where-exactly-data-becomes-product)
   * [The state of Data Products](#the-state-of-data-products)
+  * [Data-as-a-Product and Data-Contract](#data-as-a-product-and-data-contract)
   * [How To Build a Data Product with Databricks](#how-to-build-a-data-product-with-databricks)
-  * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
   * [How to Grow Product\-Minded Engineering Teams](#how-to-grow-product-minded-engineering-teams)
   * [A good engineer thinks like a product manager](#a-good-engineer-thinks-like-a-product-manager)
+  * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
 * [Frameworks](#frameworks)
   * [Data Mesh Architecture \- Data product canvas](#data-mesh-architecture---data-product-canvas)
   * [Data Mesh Manager](#data-mesh-manager)
@@ -267,6 +268,14 @@ these companies.
 * Link to the article on Medium:
   https://medium.com/conveyordata/the-state-of-data-products-9e1bc5c39bcb
 
+## Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity
+* Title: Data-as-a-Product and Data-Contract: An evolutionary approach to data maturity
+* Date: Apr. 2024
+* Author: Olivier Wulveryck
+  ([Olivier Wulveryck on LinkedIn](https://www.linkedin.com/in/olivierwulveryck/))
+* Link to the article on Olivier's blog:
+  https://blog.owulveryck.info/2024/04/09/data-as-a-product-and-data-contract-an-evolutionary-approach-to-data-maturity.html
+
 ## How To Build a Data Product with Databricks
 * Title: How To Build a Data Product with Databricks
 * Author: Jochen Christ
@@ -277,16 +286,6 @@ these companies.
   https://www.datamesh-architecture.com/howto/build-a-dataproduct-with-databricks
 * Associated GitHub repository (with source code):
   https://github.com/datamesh-architecture/databricks-dataproduct-example
-
-## Data Pipelines for Data Products
-* Title: Data Pipelines for Data Products
-* Author: Bruno Gonzales
-  ([Bruno Gonzales on LinkedIn](https://www.linkedin.com/in/brunouy/),
-  [Bruno Gonzales on Substack](https://substack.com/@dataqualityguru))  
-* Date: Oct. 2023
-* Publisher: Modern Data 101 on Substack
-* Link to the article:
-  https://moderndata101.substack.com/p/data-pipelines-for-data-products
 
 ## How to Grow Product-Minded Engineering Teams
 * Title: How to Grow Product-Minded Engineering Teams
@@ -305,6 +304,16 @@ these companies.
 * Date: Nov. 2023
 * Link to the article:
   https://newsletter.eng-leadership.com/p/a-good-engineer-thinks-like-a-product
+
+## Data Pipelines for Data Products
+* Title: Data Pipelines for Data Products
+* Author: Bruno Gonzales
+  ([Bruno Gonzales on LinkedIn](https://www.linkedin.com/in/brunouy/),
+  [Bruno Gonzales on Substack](https://substack.com/@dataqualityguru))  
+* Date: Oct. 2023
+* Publisher: Modern Data 101 on Substack
+* Link to the article:
+  https://moderndata101.substack.com/p/data-pipelines-for-data-products
 
 # Frameworks
 
