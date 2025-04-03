@@ -24,6 +24,7 @@ Material for Data Products in a Data Engineering perspective
   * [The Data Product Ecosystem: Core, Analytic, and Data Science Products](#the-data-product-ecosystem-core-analytic-and-data-science-products)
   * [Adopting a product mindset](#adopting-a-product-mindset)
   * [6 Essential Lessons for Building Great Data Products](#6-essential-lessons-for-building-great-data-products)
+  * [The data product marketplace](#the-data-product-marketplace)
   * [The Data Product Trap](#the-data-product-trap)
   * [Where Exactly Data Becomes Product](#where-exactly-data-becomes-product)
   * [The state of Data Products](#the-state-of-data-products)
@@ -239,6 +240,15 @@ these companies.
 * Link to the article:
   https://www.thdpth.com/p/6-essential-lessons-for-building
 * Publisher: Substack
+
+## The data product marketplace
+* Title: The Data Product Marketplace: A Single Interface for Business
+* Date: Ot. 2024
+* Author: Arielle Rolland
+  ([Arielle Rolland on LinkedIn](https://www.linkedin.com/in/arielle-rolland-458405106/),
+  [Arielle Rolland on Substack](https://substack.com/@ariellerolland))
+* Link to the article on Substack:
+  https://moderndata101.substack.com/p/the-data-product-marketplace-a-single
 
 ## The Data Product Trap
 * Title: The Data Product Trap
