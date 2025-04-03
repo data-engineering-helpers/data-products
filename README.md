@@ -34,6 +34,7 @@ Material for Data Products in a Data Engineering perspective
   * [A good engineer thinks like a product manager](#a-good-engineer-thinks-like-a-product-manager)
   * [Data Pipelines for Data Products](#data-pipelines-for-data-products)
 * [Frameworks](#frameworks)
+  * [Data Marketplace](#data-marketplace)
   * [Data Mesh Architecture \- Data product canvas](#data-mesh-architecture---data-product-canvas)
   * [Data Mesh Manager](#data-mesh-manager)
   * [Data Product Portal](#data-product-portal)
@@ -327,9 +328,19 @@ these companies.
 
 # Frameworks
 
+## Data Marketplace
+* Article, by Charlotte Ledoux, Apr. 2025, on Substack:
+  https://charlotteledoux.substack.com/p/scaling-data-governance-without-falling
+* A “Data Product Marketplace”:
+  * is a place where trusted, high-quality data is accessible and reusable across teams
+  * is a platform that enables organizations to publish, discover, and exchange data assets
+    in a structured and governed way
+  * functions like an online store for data, where users can browse, request,
+    and access data assets whether internally within a company or externally between organizations
+
+
 ## Data Mesh Architecture - Data product canvas
 * Home page: https://www.datamesh-architecture.com/data-product-canvas
-
 
 ## Data Mesh Manager
 * Home page: https://datamesh-manager.com/
