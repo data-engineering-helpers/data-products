@@ -89,6 +89,14 @@ these companies.
 
 # Articles
 
+## Does wrapping a dataset in a pretty interface make it a data product
+* Title: Does wrapping a dataset in a pretty interface make it a data product?
+* Date: Apr. 2025
+* Author: Pietro La Torre
+  ([Pietro La Torre on LinkedIn](https://www.linkedin.com/in/pietrolatorre/))
+* Link to the post on LinkedIn:
+  https://www.linkedin.com/posts/pietrolatorre_dataproduct-thetowerstuff-activity-7318513566238572544-jBAx
+
 ## The Data Product Testing Strategy: Handbook
 * Title: The Data Product Testing Strategy: Handbook
 * Date: Mar. 2025
