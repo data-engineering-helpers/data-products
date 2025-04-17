@@ -346,7 +346,6 @@ these companies.
   * functions like an online store for data, where users can browse, request,
     and access data assets whether internally within a company or externally between organizations
 
-
 ## Data Mesh Architecture - Data product canvas
 * Home page: https://www.datamesh-architecture.com/data-product-canvas
 
@@ -368,3 +367,18 @@ these companies.
   * Our goal is to bridge the gap between data governance, data platforms and data catalogs and provide a 360 view of all ongoing data initiatives that is easy to understand by everybody.
   * To read more about it, please checkout our
     [announcement blogpost](https://conveyordata.com/portal-introducing-new-open-source-data-product-portal?utm_source=github-portal-readme&utm_medium=referral)
+
+## DATSIS
+
+### Articles about DATSIS
+* Unlocking the Power of DATSIS Principles and Data Meshes: A Comprehensive Guide
+  * Date: Feb. 2024
+  * Link to the article on Medium:
+  https://medium.com/@d4ta/unlocking-the-power-of-datsis-principles-and-data-meshes-a-comprehensive-guide-b7c25deb43f0
+
+* Data Mesh — Follow the DATSIS principles
+  * Author: Johan Louwers
+    ([Johan Louwers on Medium](https://louwersj.medium.com/))
+  * Date: Sep. 2022
+  * Link to the article on Medium:
+  https://louwersj.medium.com/data-mesh-follow-the-datsis-principles-55f98e05b256
