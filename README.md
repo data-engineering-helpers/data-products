@@ -72,12 +72,15 @@ these companies.
 * [Data Engineering Helpers - Knowledge Sharing - Semantic layer](https://github.com/data-engineering-helpers/semantic-layer)
 
 # Data product specifications
-* Linux Foundation's Open Data Product Specification (ODPS): https://opendataproducts.org/
+* (Linux Foundation's) Open Data Product Specification (ODPS):
+  * ODPS home page: https://opendataproducts.org/
+  * GitHub home page: https://github.com/bitol-io/open-data-product-standard
+    * Current proposal (code-named RFC-0010) for the ODPS standard: https://github.com/bitol-io/tsc/blob/main/rfcs/0010-odps.md
 * Innoq's specification for Data Products: https://dataproduct-specification.com/
 * Open Data Mesh (ODM)'s Data Product Descriptor Specification (DPDS): https://github.com/opendatamesh-initiative/odm-specification-dpdescriptor
 
 # Data contract specifications
-* Open Data Contract Specification (ODCS)
+* (Linux Foundation's) Open Data Contract Specification (ODCS)
   * Reader-friendly, dedicated site: https://bitol-io.github.io/open-data-contract-standard/latest/
   * GitHub home page: https://github.com/bitol-io/open-data-contract-standard
 * Innoq's Data Contract specification: https://datacontract.com/
