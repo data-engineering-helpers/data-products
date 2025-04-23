@@ -12,6 +12,7 @@ Material for Data Products in a Data Engineering perspective
   * [Does wrapping a dataset in a pretty interface make it a data product](#does-wrapping-a-dataset-in-a-pretty-interface-make-it-a-data-product)
   * [The Data Product Testing Strategy: Handbook](#the-data-product-testing-strategy-handbook)
   * [Data Product vs\. Data Contract](#data-product-vs-data-contract)
+  * [Data Contract vs\. Data Product Specifications](#data-contract-vs-data-product-specifications)
   * [Building Data Fabric starting from Data Products](#building-data-fabric-starting-from-data-products)
   * [The data mesh challenge](#the-data-mesh-challenge)
   * [Data Products, Platform and Where to Close the Gaps](#data-products-platform-and-where-to-close-the-gaps)
@@ -91,7 +92,8 @@ these companies.
 * Title: Data Products for all ages
 * Author: Jean-Georges Perrin
   ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/),
-  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin))
+  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin),
+  [Jean-Georges Perrin on GitHub](https://github.com/jgperrin))
 * Available on Amazon: https://www.amazon.fr/dp/B0DPL3MCWJ
 * ASIN:‎ B0DPL3MCWJ
 * ISBN-13:‎ 979-8341255999
@@ -119,9 +121,20 @@ these companies.
 * Date: Feb. 2025
 * Author: Jean-Georges Perrin
   ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/),
-  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin))
+  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin),
+  [Jean-Georges Perrin on GitHub](https://github.com/jgperrin))
 * Link to the article on Medium:
   https://medium.com/data-mesh-learning/data-product-vs-data-contract-whats-the-difference-d39e82cf8ed3
+
+## Data Contract vs. Data Product Specifications
+* Title: Data Contract vs. Data Product Specifications
+* Date: Feb. 2025
+* Author: Andrea Gioia
+  ([Andrea Gioia on LinkedIn](https://www.linkedin.com/in/andreagioia/),
+  [Andrea Gioia on Medium](https://medium.com/@andrea_gioia),
+  [Andrea Gioia on GitHub](https://github.com/andrea-gioia))
+* Link to the article on Medium:
+  https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725
 
 ## Building Data Fabric starting from Data Products
 * Title: Building Data Fabric starting from Data Products
@@ -151,6 +164,15 @@ these companies.
 
 ## What is a data marketplace
 * Title: What is a data marketplace, and do you need one?
+* Date: May 2024
+* Authors:
+  * Animesh Kumar
+    ([Animesh Kumar on LinkedIn](https://www.linkedin.com/in/anismiles/))
+  * Manisha Jain
+  * Aravind Nunsavathu
+    ([Aravind Nunsavathu on LinkedIn](https://www.linkedin.com/in/aravind-nunsavathu-88976918/))
+  * Samadrita Ghosh
+    ([Samadrita Ghosh on LinkedIn](https://www.linkedin.com/in/samadritaghosh/))
 * Link to the post on LinkedIn:
   https://www.linkedin.com/posts/modern-data-101_a-data-marketplaces-positioning-ugcPost-7295784619419828225-h7ih
 * Link to the article on ThoughtWorks:
