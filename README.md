@@ -81,10 +81,11 @@ these companies.
 ## Data Products for all ages
 * Title: Data Products for all ages
 * Author: Jean-Georges Perrin
-  ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/))
+  ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/),
+  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin))
 * Available on Amazon: https://www.amazon.fr/dp/B0DPL3MCWJ
-* ASIN: ‎ B0DPL3MCWJ
-* ISBN-13: ‎ 979-8341255999
+* ASIN:‎ B0DPL3MCWJ
+* ISBN-13:‎ 979-8341255999
 * Number of pages:‎ 36
 
 # Articles
@@ -103,6 +104,15 @@ these companies.
 * Authors: Manisha Jain, Animesh Kumar, Shubhanshu Jain, and Samadrita Ghosh
 * Link to the article on Substack:
   https://moderndata101.substack.com/p/the-data-product-testing-strategy
+
+## Data Product vs. Data Contract
+* Title: Data Product vs. Data Contract: What’s the Difference?
+* Date: Feb. 2025
+* Author: Jean-Georges Perrin
+  ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/),
+  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin))
+* Link to the article on Medium:
+  https://medium.com/data-mesh-learning/data-product-vs-data-contract-whats-the-difference-d39e82cf8ed3
 
 ## Building Data Fabric starting from Data Products
 * Title: Building Data Fabric starting from Data Products
@@ -161,7 +171,9 @@ these companies.
 
 ## Defining data products
 * Title: Defining data products
-* Author: Jean-George Perrin
+* Author: Jean-Georges Perrin
+  ([Jean-Georges Perrin on LinkedIn](https://www.linkedin.com/in/jgperrin/),
+  [Jean-Georges Perrin on Medium](https://medium.com/@jgperrin))
 * Date: Jan. 2025
 * Link to the article: https://medium.com/data-mesh-learning/defining-data-products-a-community-effort-77363611e5c5
 
