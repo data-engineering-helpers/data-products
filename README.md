@@ -101,6 +101,22 @@ these companies.
 
 # Articles
 
+## Defining data products with data contracts
+* Title: Defining data products with data contracts
+* Date: May 2025
+* Author: Andrew Jones
+ ([Andrew Jones on LinkedIn](https://www.linkedin.com/in/andrewrhysjones/),
+ [Andrew Jones' home page](https://andrew-jones.com/))
+* Link to the article on Substack:
+  https://andrew-jones.com/newsletter/2025-05-23-defining-data-products-with-data-contracts/
+
+## Platform as a product
+* Title: Platform as a product
+* Author: Manuel Pais
+  ([Manuel Pais on LinkedIn](https://www.linkedin.com/in/manuelpais/))
+* Link to the article on Platform Engineering's site:
+  https://platformengineering.org/talks-library/platform-as-a-product
+
 ## Does wrapping a dataset in a pretty interface make it a data product
 * Title: Does wrapping a dataset in a pretty interface make it a data product?
 * Date: Apr. 2025
@@ -278,7 +294,8 @@ these companies.
 ## Adopting a product mindset
 * Title: Adopting a product mindset
 * Author: Andrew Jones
-  ([Andrew Jones on LinkedIn](https://www.linkedin.com/in/andrewrhysjones/))
+ ([Andrew Jones on LinkedIn](https://www.linkedin.com/in/andrewrhysjones/),
+ [Andrew Jones' home page](https://andrew-jones.com/))
 * Date: Dec. 2024
 * Link to the article:
   https://andrew-jones.com/newsletter/2024-12-06-adopting-a-product-mindset/
