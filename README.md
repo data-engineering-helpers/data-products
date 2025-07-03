@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [Data Modeling for Data Products](#data-modeling-for-data-products)
   * [Does wrapping a dataset in a pretty interface make it a data product](#does-wrapping-a-dataset-in-a-pretty-interface-make-it-a-data-product)
   * [The Data Product Testing Strategy: Handbook](#the-data-product-testing-strategy-handbook)
   * [Data Product vs\. Data Contract](#data-product-vs-data-contract)
@@ -100,6 +101,15 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## Data Modeling for Data Products
+* Title: Data Modeling for Data Products: A Practical Guide
+* Date: Jul. 2025
+* Author:
+  ([Mahdi Karabiben on LinkedIn](https://www.linkedin.com/in/mahdikarabiben/),
+  [Mahdi Karabiben on Medium](https://mahdiqb.medium.com/))
+* Link to the article on Medium:
+  https://blog.det.life/data-modeling-for-data-products-a-practical-guide-2db003cc7e72
 
 ## Defining data products with data contracts
 * Title: Defining data products with data contracts
