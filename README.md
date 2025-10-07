@@ -102,6 +102,13 @@ these companies.
 
 # Articles
 
+## The Data Product Marketplace
+* Date: Oct. 2025
+* Author: Andrea Gioia
+  ([Andrea Gioia on Andrea Gioia](https://www.linkedin.com/in/andreagioia/))
+* LinkedIn post:
+  https://www.linkedin.com/posts/andreagioia_the-data-products-marketplace-ugcPost-7380934220774260736-Z2Oj
+
 ## Data Modeling for Data Products
 * Title: Data Modeling for Data Products: A Practical Guide
 * Date: Jul. 2025
