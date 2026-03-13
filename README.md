@@ -9,6 +9,7 @@ Material for Data Products in a Data Engineering perspective
 * [Books](#books)
   * [Data Products for all ages](#data-products-for-all-ages)
 * [Articles](#articles)
+  * [The right size of data products](#the-right-size-of-data-products)
   * [Data Modeling for Data Products](#data-modeling-for-data-products)
   * [Does wrapping a dataset in a pretty interface make it a data product](#does-wrapping-a-dataset-in-a-pretty-interface-make-it-a-data-product)
   * [The Data Product Testing Strategy: Handbook](#the-data-product-testing-strategy-handbook)
@@ -101,6 +102,26 @@ these companies.
 * Number of pages:‎ 36
 
 # Articles
+
+## The right size of data products
+* Title: The right size of a Data Product
+* Date: March 2026
+* Author: Stefan Negele
+  ([Stefan Negele on LinkedIn](https://www.linkedin.com/in/stefan-negele-573153112/),
+  [Stefan Negele on InnoQ blog]())
+* [Link to the post on InnoQ blog](https://www.innoq.com/en/articles/2026/03/autonomous-data-product-size-heuristics/)
+> * **Boundaries**: If a data product is cut too small or too big, people have to stitch data together,
+> ownership gets unclear, logic is duplicated, and incidents become normal.
+> * **Consumers**: A data product needs real users and use cases now; you should be able
+> to describe its main purpose in one sentence, and data contracts help make expectations explicit.
+> * **Ownership**: One team must be clearly responsible for meaning, data quality, and operations;
+> without a stable owner, the data product should not exist.
+> * **Scope**: Aim for the smallest useful standalone unit – easy to use without extra
+> integration work, but not bloated with “maybe useful later” data.
+> * **Types**: Use different cuts depending on the goal – source-aligned stays
+> within one business domain, aggregates are only worth it when several teams need
+> the same derived view and someone can govern it, and consumer-aligned is built
+> around one decision/process for a specific audience.
 
 ## The Data Product Marketplace
 * Date: Oct. 2025
